@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d614995d-df0d-4b95-9b7a-7b5bdc23ee9a" name="Changes" comment="" />
+    <list default="true" id="d614995d-df0d-4b95-9b7a-7b5bdc23ee9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/qhy/springcloud/MainAppConfigCenter3344.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -295,12 +298,23 @@
       <workItem from="1663740983480" duration="4284000" />
       <workItem from="1663809981740" duration="12000" />
       <workItem from="1664334083189" duration="2169000" />
-      <workItem from="1664416916828" duration="11061000" />
+      <workItem from="1664416916828" duration="11367000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
