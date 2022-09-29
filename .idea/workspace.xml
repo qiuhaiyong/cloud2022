@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d614995d-df0d-4b95-9b7a-7b5bdc23ee9a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../localFactory/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\localFactory\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2DjrQGttkvKUxg7QcNLstumLEmF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\cloud2022\cloud-provider-payment8002\src\main\java\com\qhy\springcloud" />
+      <recent name="D:\ideaProject\cloud2022\cloud-provider-payment8002\src\main\resources" />
+      <recent name="D:\ideaProject\cloud2022\cloud-api-commons\src\main\java\com\qhy\springcould\entities" />
+      <recent name="D:\ideaProject\cloud2022\cloud-consumer-order80\src\main\java\com\qhy\springcloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qhy.springcloud.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayMain9527">
+    <configuration name="PaymentFallbackService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qhy.springcloud.service.PaymentFallbackService" />
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qhy.springcloud.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulOrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerconsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.ConsulOrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulPaymentMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerconsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.ConsulPaymentMain8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qhy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qhy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.GatewayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qhy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qhy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qhy.springcloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PaymentFallbackService" />
+      <item itemvalue="Spring Boot.ConsulOrderMain80" />
+      <item itemvalue="Spring Boot.ConsulPaymentMain8006" />
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.OrderZKMain80" />
+      <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.PaymentMain8004" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.OrderFeignMain80" />
+      <item itemvalue="Spring Boot.GatewayMain9527" />
+      <item itemvalue="Spring Boot.OrderHystrixMain80" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GatewayMain9527" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Application.PaymentFallbackService" />
+        <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+        <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d614995d-df0d-4b95-9b7a-7b5bdc23ee9a" name="Changes" comment="" />
+      <created>1661223318341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661223318341</updated>
+      <workItem from="1661223319345" duration="15711000" />
+      <workItem from="1661305155759" duration="11746000" />
+      <workItem from="1661329065992" duration="2750000" />
+      <workItem from="1661390544457" duration="16118000" />
+      <workItem from="1661496669475" duration="2014000" />
+      <workItem from="1661736665334" duration="826000" />
+      <workItem from="1661761795789" duration="1008000" />
+      <workItem from="1661765503171" duration="1220000" />
+      <workItem from="1661822397718" duration="1315000" />
+      <workItem from="1662516386886" duration="261000" />
+      <workItem from="1662713741751" duration="3346000" />
+      <workItem from="1663032076415" duration="5167000" />
+      <workItem from="1663145436905" duration="2826000" />
+      <workItem from="1663204935644" duration="290000" />
+      <workItem from="1663207651399" duration="2745000" />
+      <workItem from="1663223901283" duration="9658000" />
+      <workItem from="1663292316641" duration="18942000" />
+      <workItem from="1663551362038" duration="4025000" />
+      <workItem from="1663722599746" duration="2068000" />
+      <workItem from="1663740983480" duration="4284000" />
+      <workItem from="1663809981740" duration="12000" />
+      <workItem from="1664334083189" duration="2169000" />
+      <workItem from="1664416916828" duration="11061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.concurrent.TimeoutException" package="java.util.concurrent" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
