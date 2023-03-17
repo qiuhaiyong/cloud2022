@@ -12,6 +12,11 @@ spring:
     url: jdbc:mysql://localhost:3306/db2019?useUnicode=true&characterEncoding=utf-8&useSSL=false
     username: root
     password: qhy
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler: #采样率介于0-1之间，1代表全部采集
+      probability: 1
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml

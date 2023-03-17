@@ -12,6 +12,12 @@
     <artifactId>cloud-config-center-3344</artifactId>
 
     <dependencies>
+        <!--添加消息总线rabbitMQ的支持-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-bus-amqp</artifactId>
+        </dependency>
+
         <!--        Config服务端-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>

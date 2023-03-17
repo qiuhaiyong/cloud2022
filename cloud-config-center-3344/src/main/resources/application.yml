@@ -13,8 +13,20 @@ spring:
             - springcloud-config
       label: main #读取分支
       #启动成功后访问的路径 http://ip:3344/{label}/{application}-{profile}.yml 能访问的配置文件 就表示成功了
+  rabbitmq:
+    host: 192.168.59.151
+    port: 5672
+    username: admin
+    password: 123
 
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:7001/eureka
+
+#rabbitmq相关配置，暴露bus刷新配置端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "bus-refresh"

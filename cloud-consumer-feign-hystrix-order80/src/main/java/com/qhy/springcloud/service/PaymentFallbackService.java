@@ -16,15 +16,4 @@ public class PaymentFallbackService implements PaymentHystrixService{
         return "PaymentFallbackService fallback-paymentInfo_TimeOut,┭┮﹏┭┮";
     }
 
-    public static void main(String[] args) {
-        Boolean a = null;
-        System.out.println(a);
-        if (a == null){
-            System.out.println(1);
-        }else {
-            System.out.println(2);
-        }
-    }
-
-
 }

@@ -28,7 +28,7 @@ public class PaymentService {
     public String paymentInfo_TimeOut(Integer id){
         long start = System.currentTimeMillis();
         try {
-            TimeUnit.SECONDS.sleep(1);
+            TimeUnit.SECONDS.sleep(6);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
